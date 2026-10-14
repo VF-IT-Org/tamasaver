@@ -27,3 +27,7 @@ This repository targets a deprecated Android toolchain and appears to be a histo
 - This project will not build cleanly on a modern Android toolchain without migration work.
 - If the application is still needed, the next step should be an explicit decision: migrate it to Android Studio/Gradle or archive it.
 - Until that decision is made, this repository should be treated as legacy/reference code.
+
+## Review Status
+
+This repository was reviewed on October 14, 2026.
